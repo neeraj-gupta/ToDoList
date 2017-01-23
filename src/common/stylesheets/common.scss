@@ -1,0 +1,23 @@
+@import "./variables.scss";
+
+/* ---------------------------------------
+ GLOBAL STYLES
+ -----------------------------------------*/
+
+html {
+    font-size: 100%;
+}
+
+body {
+    background: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    color: #313131;
+    line-height: 28px;
+    overflow-x: hidden !important;
+    margin: auto !important;
+}
+
+* {
+   font-family: 'Open Sans Light';
+}
